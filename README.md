@@ -1,0 +1,2 @@
+# hexo
+my new blog
