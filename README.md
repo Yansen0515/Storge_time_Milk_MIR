@@ -1,2 +1,2 @@
-# hexo
+# Huyan
 my new blog
